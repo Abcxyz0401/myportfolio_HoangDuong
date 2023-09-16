@@ -85,7 +85,7 @@ txt2('Email', '[hoangduong4196@gmail.com](mailto:hoangduong4196@gmail.com)')
 #####################
 txt('## Education')
 # col.markdown('## Education')
-txt1('**Final Year Student**,  *[Ho Chi Minh University of Technology and Education](https://hcmute.edu.vn/)*, Vietnam',
+txt1('**Final Year Student**,  *[Học viện kỹ thuật quân sự](https://mta.edu.vn/)*, Vietnam',
 '09/2018 - Present')
 txt('''
 - Software Technology
